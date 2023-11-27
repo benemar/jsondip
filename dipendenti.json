@@ -1,0 +1,20 @@
+[
+{
+  "cognome": "Rossi",
+  "stipendio": "15000"
+},
+{
+"cognome": "Verdi",
+"stipendio": "18000"
+},
+
+  {
+    "cognome": "Guido",
+    "stipendio": "19000"},
+
+
+  {
+    "cognome": "Angelillisi",
+    "stipendio": "20000"
+  }
+]
